@@ -19,7 +19,7 @@ Output is written to `weekly_digest.md`.
 
 ## Built With
 
-Built using Claude Code in ~2 hours as a work sample for Anthropic's Product Operations Manager role.
+Built using Claude Code in ~2 hours.
 
 ## Sample Output
 
